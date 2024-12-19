@@ -103,3 +103,7 @@
 - DBMS: MySQL
 - WAS: Tomcat, Undertow
 - 프레임워크: SpringBoot
+
+## 프로젝트 이력
+
+버전 별 작업 내용은 [프로젝트 이력](docs/HISTORY.md)에 기록하였습니다.
